@@ -2,7 +2,7 @@ name: "Build and Deploy"
 on:
   push:
     branches:
-      - main
+      - dependabot/npm_and_yarn/npm-96fe068c3e
     paths-ignore:
       - .gitignore
       - README.md
